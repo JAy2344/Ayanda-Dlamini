@@ -22,10 +22,9 @@
 ---
 
 ## 📊 GitHub Stats  
-![Ayanda's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)  
+![Ayanda's GitHub stats](https://github-readme-stats.vercel.app/api?username=JAy2344&show_icons=true&theme=tokyonight)  
 
 ---
 
 ## 🌐 Connect With Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/ayanda-dlamini-a69296295/)  
-[![Email](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox&logoColor=white)](ayandad972@gmail.com)
