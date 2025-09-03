@@ -8,7 +8,6 @@
 ## 🚀 About Me  
 - 🔭 Currently working on: [Voting System Project](#)  
 - 🌱 Learning: **JavaScript, APIs, and  React**  
-- 💬 Ask me about: **web apps, and AI projects**  
 - 📫 Reach me at: ayandad972@gmail.com
 
 
@@ -18,7 +17,6 @@
 ![HTML](https://img.shields.io/badge/-HTML-orange?logo=html5&logoColor=white&style=for-the-badge)
 ![CSS](https://img.shields.io/badge/-CSS-blue?logo=css3&logoColor=white&style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=black&style=for-the-badge)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=for-the-badge)
 
 ---
 
