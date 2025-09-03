@@ -6,7 +6,7 @@
 ---
 
 ## 🚀 About Me  
-- 🔭 Currently working on: [Voting Website](https://github.com/JAy2344/Voting-Website)
+- 🔭 Currently working on: [Voting Website](https://github.com/JAy2344/Voting-Website) and [World Clock Project](https://world-clock-project-shecodes-2025.netlify.app/).
 - 🌱 Learning: **JavaScript, APIs, and  React**  
 - 📫 Reach me at: ayandad972@gmail.com
 
