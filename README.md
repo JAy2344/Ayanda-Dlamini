@@ -6,7 +6,7 @@
 ---
 
 ## 🚀 About Me  
-- 🔭 Currently working on: [https://github.com/JAy2344/Voting-Website](#)  
+-🔭 Currently working on: [Voting Website](https://github.com/JAy2344/Voting-Website)
 - 🌱 Learning: **JavaScript, APIs, and  React**  
 - 📫 Reach me at: ayandad972@gmail.com
 
