@@ -9,7 +9,7 @@
 - 🔭 Currently working on: [Voting System Project](#)  
 - 🌱 Learning: **JavaScript, APIs, and  React**  
 - 💬 Ask me about: **web apps, and AI projects**  
-- 📫 Reach me at: [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/ayanda-dlamini-a69296295/)  
+- 📫 Reach me at: ayandad972@gmail.com
 
 
 ---
